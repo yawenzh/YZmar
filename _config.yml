@@ -12,7 +12,7 @@ show_excerpts: True # set to true to show excerpts on the homepage
 theme: minima
 minima:
 date_format:
-skin: dark 
+skin: dark
   # generate social links in footer
   social_links:
     #twitter: jekyllrb
