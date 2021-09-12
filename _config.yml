@@ -9,14 +9,14 @@ show_excerpts: True # set to true to show excerpts on the homepage
 
 # Minima date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
+theme: minima
 minima:
-  skin: dark
-  date_format: "%b %-d, %Y"
-
+ date_format: "%b %-d, %Y"
+ skin: dark 
   # generate social links in footer
   social_links:
-    twitter: jekyllrb
-    github:  jekyll
+    #twitter: jekyllrb
+    #github:  jekyll
     # devto: jekyll
     # dribbble: jekyll
     # facebook: jekyll
@@ -52,7 +52,6 @@ minima:
 # - about.md
 
 # Build settings
-theme: minima
 
 plugins:
  - jekyll-feed
