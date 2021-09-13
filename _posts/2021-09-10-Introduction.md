@@ -43,6 +43,11 @@ Timber Cabin, Crafted Works, 2018
 The BoHo Box Hop Container House, Emily & Seth
 #### The two shipping containers (20 ft and 40 ft) were used in the construction, blended the modern container architecture with the small house concept. A smaller and totally extraordinary container house with a Clawfoot bathtub, large aft deck, 6-seater whirlpool and three viewing windows.
 
+---
+![333](https://user-images.githubusercontent.com/90550813/133109733-e2883ce1-09a4-47f8-b8cd-b3ef82325caa.png)
+Hong Kong's newest housing solution, James Law
+#### Aiming to ease the city's affordable housing problem, architect James Law has found a creative solution that converts concrete water pipes into 100-square-foot micro-living units. Called OPod, the tiny apartments are equipped with a shower, toilet, and smartphone lock, and can house one to two people. Additionally, the tube houses can also be stacked on one another between the city’s highrises to form modular communities.
+
 ## Site
 #### Jordan River Peace Labyrinth
 Near to a park, a cluster site - a larger parcel where multiple residences could be located in a small planned 
@@ -50,8 +55,12 @@ development.
 
 ![site](https://raw.githubusercontent.com/yawenzh/YZmar/master/image/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210913091342.png)
 
-References: -https://www.dezeen.com/2012/07/13/hut-on-sleds-by-crosson-clarke-carnachan-architects/
-           -https://www.dezeen.com/2020/06/13/crafted-works-timber-cabin-netherlands/
-           -https://www.livinginacontainer.com/the-boho-box-hop-container-house-usa/
+References: 
+https://www.dezeen.com/2012/07/13/hut-on-sleds-by-crosson-clarke-carnachan-architects/
+           
+-https://www.dezeen.com/2020/06/13/crafted-works-timber-cabin-netherlands/
+           
+-https://www.livinginacontainer.com/the-boho-box-hop-container-house-usa/
 
+-https://archinect.com/news/article/150043028/this-100-sq-ft-micro-living-unit-made-from-concrete-pipes-is-hong-kong-s-newest-housing-solution
 
