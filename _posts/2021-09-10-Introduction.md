@@ -25,14 +25,20 @@ Welcome!
 ## Material Research
 #### 1. wood
 
-![35a12e69-d9c2-49d0-a560-ab4f417ca6ae-hut-on-sleds-crosson-architects-5](https://user-images.githubusercontent.com/90550813/133069297-83b8bb24-b254-43fb-9658-c0cea380890f.jpg)
+![111](https://user-images.githubusercontent.com/90550813/133102547-2386e5bc-b8de-45cf-b45a-59950b14be9b.png)
 Hut on Sleds, Crosson Clarke Carnachan Architects, 2011
 #### Located within a designated erosion zone on the Coromandel Peninsula, the house was designed as a mobile structure to satisfy a planning condition requiring that all buildings in the area be removable.
+---
+![Dezeen_Crosson-Clarke-Carnachan-Architects_14](https://user-images.githubusercontent.com/90550813/133101339-2b9c7a81-bbfa-45cf-95da-5a9d8e494970.png)
+#### The hut is totally sustainable from its modest size to the use of timber in its cladding, structure, lining and joinery and from its worm tank waste system to the separate portable grey water tanks.
 
-----
+--- 
 ![uncovered-timber-cabin-crafted-works-drenthe_dezeen_2364_col_0-1-1704x959](https://user-images.githubusercontent.com/90550813/133077546-544e145b-8f6f-4c11-86cd-3396177eacb2.jpg)
 Timber Cabin, Crafted Works, 2018
 #### Douglas fir was used to create the cabin's frame, which is supported on galvanised steel screw pile foundations, as well as the external wall studs and roof rafters. The window detailing allows the outer frames to be concealed both internally and externally and gives them a more streamlined appearance. The warm tones and textures of the wood, along with the exposed roof rafters that also act as acoustic baffles, help create a relaxing and quiet interior environment.
+
+#### 2.Recycling Infrastructure
+
 
 ## Site
 #### Jordan River Peace Labyrinth
@@ -41,7 +47,8 @@ development.
 
 ![site](https://raw.githubusercontent.com/yawenzh/YZmar/master/image/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210913091342.png)
 
-
+References: -https://www.dezeen.com/2012/07/13/hut-on-sleds-by-crosson-clarke-carnachan-architects/
+           -https://www.dezeen.com/2020/06/13/crafted-works-timber-cabin-netherlands/
 
 
 
