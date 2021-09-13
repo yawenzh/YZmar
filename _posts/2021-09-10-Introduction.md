@@ -14,8 +14,14 @@ Welcome!
 
 <<<<<<< Process
 
+## Definition of Home
+Stage of Life
+-Working people of any age or newly graduated college students in urgent need of housing
+-1 to 2 people
 
+For social workers, home is a place to rest after busy and tense work. They can cultivate their interests, such as painting, video games, and pets. Nowadays, the idea of forming a big family is gradually weakening, and the demand for single person residence and double person residence is gradually increasing. Therefore, economical, and practical tiny houses have increasingly become the goal of people's house purchase. As a small volume residence, it needs complete functional areas and low cost to meet people's living needs.
 
+## Research
 
 ## Site
 ### Jordan River Peace Labyrinth
