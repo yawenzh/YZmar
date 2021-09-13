@@ -1,22 +1,22 @@
-title: Martha
-author: Martha
-name: Yawen,Zheng
-email: zhengyaw@kean.edu
+title: Your awesome title
+author:
+  name: GitHub User
+  email: your-email@domain.com
 description: > # this means to ignore newlines until "show_excerpts:"
- I'm Martha, a junior in the department of architecture at Wenzhou Kean University. Welcome to my page.
-
-show_excerpts: True # set to true to show excerpts on the homepage
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+show_excerpts: false # set to true to show excerpts on the homepage
 
 # Minima date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
-theme: minima
 minima:
-date_format:
-skin: dark
+  date_format: "%b %-d, %Y"
+
   # generate social links in footer
   social_links:
-    #twitter: jekyllrb
-    #github:  jekyll
+    twitter: jekyllrb
+    github:  jekyll
     # devto: jekyll
     # dribbble: jekyll
     # facebook: jekyll
@@ -52,6 +52,7 @@ skin: dark
 # - about.md
 
 # Build settings
+theme: minima
 
 plugins:
  - jekyll-feed
