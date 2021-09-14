@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Functional Mobile House"
+title: "About"
 categories: Studio Process
 author:
 - Martha Zheng
