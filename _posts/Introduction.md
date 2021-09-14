@@ -10,8 +10,6 @@ author:
 
 Welcome!
 
-[Part to Whole - Global to Local](http://keanmgc.github.io/2021fall3yr-studio/)
-
 
 ## Definition of Home
 ##### -Working people of any age or newly graduated college students in urgent need of housing
