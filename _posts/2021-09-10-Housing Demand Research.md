@@ -23,8 +23,8 @@ The housing market in Salt Lake City cannot keep up with demand, which has promp
 
 As of August 8, 2021, the average rent for a one-bedroom apartment in Salt Lake City is currently $1,150. This is an increase of 16% compared to the previous year. In the past month, the average rent for a studio apartment in Salt Lake City has risen by 5% to $1,045. The average rent for a one-bedroom apartment rose 5% to US$1,150, and the average rent for a two-bedroom apartment rose 7% to US$1,395.
 
--The average rent for a two-bedroom apartment was $1,395 (8% increase from the same period last year).
--The average rent for a three-bedroom apartment was $1,865 (a 4% increase from the same period last year).
--The average rent for a four-bedroom apartment was $2,563 (a 22% increase from the same period last year).
+- The average rent for a two-bedroom apartment was $1,395 (8% increase from the same period last year).
+- The average rent for a three-bedroom apartment was $1,865 (a 4% increase from the same period last year).
+- The average rent for a four-bedroom apartment was $2,563 (a 22% increase from the same period last year).
 
 The Zumper Salt Lake City Metro Area Report analyzes the active listings in 7 metro cities in June 2021 to show the most expensive and cheapest cities and the cities with the fastest rent growth. The median one-bedroom rent in Utah last month was $1,047. Salt Lake City is the most expensive city, with a one-bedroom price of US$1,100, while Provo is the most affordable market with a rent of US$800.
