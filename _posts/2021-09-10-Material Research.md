@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Functional Mobile House"
+title: "2021-09-10-Material Research"
 categories: Studio Process
 author:
 - Martha Zheng
