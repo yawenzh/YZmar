@@ -10,6 +10,9 @@ author:
 
 Driven by historically low interest rates and low unemployment rates, the pandemic has provided impetus to Utah's real estate market. According to data from Bankrate.com, Utah's housing market is ranked as the nation's largest housing market due to its fastest employment growth rate, low unemployment rate, low mortgage interest rates, low mortgage delinquency rates, and low state and local taxes. The continued low mortgage interest rates and the steady recovery after the pandemic indicate that the Utah real estate market may set another record in 2021. The same is true for the real estate market in Salt Lake County.
 
+![Utah-house-price-index-1080x418](https://user-images.githubusercontent.com/90550813/133299960-9f695fa6-14da-4a70-b1b7-614eeeab63bf.jpg)
+
+
 #### Rapid Population Growth 
 A high graduation rate and a large number of college graduates, the city will have a workforce that is attractive to many large companies. Utah’s population has grown by 9% in the past five years, most of which are concentrated in Salt Lake City, and the median house price at the end of 2020 is $399,500 (still significantly lower than the Denver average).
 
