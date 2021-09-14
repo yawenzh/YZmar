@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "09-11-Material Research"
+title: "Material Research"
 categories: Studio Process
 author:
 - Martha Zheng
