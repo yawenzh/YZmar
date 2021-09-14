@@ -33,10 +33,6 @@ The BoHo Box Hop Container House, Emily & Seth
 Hong Kong's newest housing solution, James Law
 #### Aiming to ease the city's affordable housing problem, architect James Law has found a creative solution that converts concrete water pipes into 100-square-foot micro-living units. Called OPod, the tiny apartments are equipped with a shower, toilet, and smartphone lock, and can house one to two people. Additionally, the tube houses can also be stacked on one another between the city’s highrises to form modular communities.
 
-## Site
-#### Jordan River Peace Labyrinth
-Near to a park, a cluster site - a larger parcel where multiple residences could be located in a small planned 
-development. 
 
 ![site](https://raw.githubusercontent.com/yawenzh/YZmar/master/image/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210913091342.png)
 
