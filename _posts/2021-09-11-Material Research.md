@@ -8,7 +8,6 @@ author:
 
 ---
 
-## Material Research
 ### 1. wood
 
 ![111](https://user-images.githubusercontent.com/90550813/133102547-2386e5bc-b8de-45cf-b45a-59950b14be9b.png)
