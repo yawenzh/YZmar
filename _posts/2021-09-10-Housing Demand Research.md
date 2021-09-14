@@ -17,3 +17,14 @@ Moreover, a large number of Californians have moved to Utah, putting additional 
 
 #### Rapid Employment Growth
 The employment situation in Utah is one of the most impressive in the United States. In the past ten years, it has the fastest growing job market in the country. The population of Utah has increased by 18.4% in the past ten years, making it the fastest growing state. According to the US Census Bureau, it is now the 30th most populous state with a population of nearly 3.28 million. The economy in the Salt Lake City area is performing well, and it has one of the lowest unemployment rates in the United States, with only 3.5% of the ringtones in December 2020. During the pandemic, Utah’s job prospects will continue to outperform the rest of the country in December. . The unemployment rate in Utah is 3.3%, which is much lower than the national rate of 6.5%.
+
+#### Growing Salt Lake City Rental Market
+The housing market in Salt Lake City cannot keep up with demand, which has prompted many millennials and new residents to enter the rental market. Although many people want to own their own homes, affordability is an issue for young people who want to become homeowners. The average annual income of millennials is US$68,000, while the median house price is US$400,000. This explains why rents in Salt Lake City are growing the fastest in the country.
+
+As of August 8, 2021, the average rent for a one-bedroom apartment in Salt Lake City is currently $1,150. This is an increase of 16% compared to the previous year. In the past month, the average rent for a studio apartment in Salt Lake City has risen by 5% to $1,045. The average rent for a one-bedroom apartment rose 5% to US$1,150, and the average rent for a two-bedroom apartment rose 7% to US$1,395.
+
+-The average rent for a two-bedroom apartment was $1,395 (8% increase from the same period last year).
+-The average rent for a three-bedroom apartment was $1,865 (a 4% increase from the same period last year).
+-The average rent for a four-bedroom apartment was $2,563 (a 22% increase from the same period last year).
+
+The Zumper Salt Lake City Metro Area Report analyzes the active listings in 7 metro cities in June 2021 to show the most expensive and cheapest cities and the cities with the fastest rent growth. The median one-bedroom rent in Utah last month was $1,047. Salt Lake City is the most expensive city, with a one-bedroom price of US$1,100, while Provo is the most affordable market with a rent of US$800.
