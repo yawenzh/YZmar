@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Substructure"
+title: "Pack 4 parts of house"
 categories: Studio Process
 author:
 - Martha Zheng
