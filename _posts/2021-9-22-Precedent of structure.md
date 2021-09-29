@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Substructure"
+title: "Precedent of structure"
 categories: Studio Process
 author:
 - Martha Zheng
