@@ -19,3 +19,5 @@ author:
 ![section-01](https://user-images.githubusercontent.com/90550813/135486953-2641a782-9bf8-4a6b-a959-a7f656a45e2e.png)
 
 
+#### Wall structure
+![8ef5b1c7810ca93693c435f61cb9ed32](https://user-images.githubusercontent.com/90550813/135539271-b7d647d5-9ff9-45c8-849f-2bc33700802e.jpg)
