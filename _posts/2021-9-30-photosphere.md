@@ -7,3 +7,5 @@ author:
 
 ---
 
+https://cdn.pannellum.org/2.5/pannellum.htm#panorama=https%3A//pannellum.org/documentation/overview/tutorial/&title=Interior&author=Martha&autoLoad=true
+
