@@ -32,9 +32,10 @@ Typical Owner: Poor Family, working people of any age, or grduates .etc who in u
 
 ### Interior Photosphere
 
-<iframe width="600" height="400" allowfullscreen style="border-style:none;" src="https://cdn.pannellum.org/2.5/pannellum.htm#panorama=https%3A//i.loli.net/2021/10/01/rQFzCoDfWnOcyU7.jpg&title=Interior1&author=Martha&autoLoad=true"></iframe>
+<iframe width="600" height="400" allowfullscreen style="border-style:none;" src="https://cdn.pannellum.org/2.5/pannellum.htm#panorama=https%3A//i.loli.net/2021/10/01/rQFzCoDfWnOcyU7.jpg&autoLoad=true"></iframe>
 
-<iframe width="600" height="400" allowfullscreen style="border-style:none;" src="https://cdn.pannellum.org/2.5/pannellum.htm#panorama=https%3A//i.loli.net/2021/10/01/lU8JYsWPEVBrpOc.jpg&title=Interior2&author=Martha&autoLoad=true"></iframe>
+
+<iframe width="600" height="400" allowfullscreen style="border-style:none;" src="https://cdn.pannellum.org/2.5/pannellum.htm#panorama=https%3A//i.loli.net/2021/10/01/lU8JYsWPEVBrpOc.jpg&autoLoad=true"></iframe>
 
 ### GIF
 #### Packing Transformation and Assembling
