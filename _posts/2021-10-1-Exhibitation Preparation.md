@@ -68,6 +68,7 @@ Typical Owner: Poor Family, working people of any age, or grduates .etc who in u
 ![8ef5b1c7810ca93693c435f61cb9ed32](https://user-images.githubusercontent.com/90550813/135539271-b7d647d5-9ff9-45c8-849f-2bc33700802e.jpg)
 
 #### Process
+![未标题-1](https://user-images.githubusercontent.com/90550813/135567831-9a7ccc57-bc65-4e14-81bc-a3671c6d1ecd.jpg)
 
 
 #### Precedent
