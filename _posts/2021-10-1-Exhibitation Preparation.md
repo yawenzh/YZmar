@@ -64,8 +64,9 @@ Typical Owner: Poor Family, working people of any age, or grduates .etc who in u
 ![section-01](https://user-images.githubusercontent.com/90550813/135548254-54918b30-5de4-45e6-a9fc-c6145f6680b5.jpg)
 
 
-#### Wall structure
-![8ef5b1c7810ca93693c435f61cb9ed32](https://user-images.githubusercontent.com/90550813/135539271-b7d647d5-9ff9-45c8-849f-2bc33700802e.jpg)
+#### Construction simulation
+![微信图片_20211001145736](https://user-images.githubusercontent.com/90550813/135578737-59c812b8-a881-4e91-820b-b2e2935dbfb0.png)
+
 
 #### Process
 ![未标题-1](https://user-images.githubusercontent.com/90550813/135567831-9a7ccc57-bc65-4e14-81bc-a3671c6d1ecd.jpg)
@@ -78,6 +79,7 @@ Typical Owner: Poor Family, working people of any age, or grduates .etc who in u
 
 ![Dezeen_Crosson-Clarke-Carnachan-Architects_6](https://user-images.githubusercontent.com/90550813/135560992-3e076e8a-ba1c-4f68-b704-069eadcbc5fc.jpg)
 
+![8ef5b1c7810ca93693c435f61cb9ed32](https://user-images.githubusercontent.com/90550813/135578673-2e8829d1-f9fb-4bc2-8de5-58b3dcbbcb7f.jpg)
 
 
 
