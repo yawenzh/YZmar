@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "plan&section"
+title: "Photosphere"
 categories: Studio Process
 author:
 - Martha Zheng
