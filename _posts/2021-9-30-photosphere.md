@@ -6,8 +6,13 @@ author:
 - Martha Zheng
 
 ---
-https://cdn.pannellum.org/2.5/pannellum.htm#panorama=https%3A//i.loli.net/2021/10/01/M8aszEgnNH9jZyq.jpg%20&title=Interior1&author=Martha
+### Exterior Photosphere
+
+<iframe width="600" height="400" allowfullscreen style="border-style:none;" src="https://cdn.pannellum.org/2.5/pannellum.htm#panorama=https%3A//i.loli.net/2021/10/01/JCXDWcsrxh9NbPK.jpg&autoLoad=true"></iframe>
+
+### Interior Photosphere
+
+<iframe width="600" height="400" allowfullscreen style="border-style:none;" src="https://cdn.pannellum.org/2.5/pannellum.htm#panorama=https%3A//i.loli.net/2021/10/01/rQFzCoDfWnOcyU7.jpg&autoLoad=true"></iframe>
 
 
-https://cdn.pannellum.org/2.5/pannellum.htm#panorama=https%3A//i.loli.net/2021/10/01/nNCD1xwj8B2UAr3.jpg&title=Interior2&author=Martha
-
+<iframe width="600" height="400" allowfullscreen style="border-style:none;" src="https://cdn.pannellum.org/2.5/pannellum.htm#panorama=https%3A//i.loli.net/2021/10/01/lU8JYsWPEVBrpOc.jpg&autoLoad=true"></iframe>
