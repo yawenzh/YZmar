@@ -8,15 +8,16 @@ author:
 ---
 
 [Ground floor plan.pdf](https://github.com/yawenzh/YZmar/files/7260578/plan1.pdf)
-![plan_ground floor_画板 1-01](https://user-images.githubusercontent.com/90550813/135486926-ff808b5c-3440-427a-b64c-672ee062d354.png)
+![plan1-01](https://user-images.githubusercontent.com/90550813/135548231-e35fc173-1fef-44cb-97cb-093ff58785bb.jpg)
+
 
 
 [Second floor plan.pdf](https://github.com/yawenzh/YZmar/files/7260587/plan2.pdf)
-![plan_second floor_画板 1](https://user-images.githubusercontent.com/90550813/135485505-e64a030d-0aa8-48ad-a41c-86dc6097aeb9.png)
+![plan_second floor_画板 1](https://user-images.githubusercontent.com/90550813/135548244-9c81194d-d95e-47a3-ac8e-0dc198b87a81.jpg)
 
 
 [section.pdf](https://github.com/yawenzh/YZmar/files/7260592/section.pdf)
-![section-01](https://user-images.githubusercontent.com/90550813/135486953-2641a782-9bf8-4a6b-a959-a7f656a45e2e.png)
+![section-01](https://user-images.githubusercontent.com/90550813/135548254-54918b30-5de4-45e6-a9fc-c6145f6680b5.jpg)
 
 
 #### Wall structure
