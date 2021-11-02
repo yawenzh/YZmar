@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Definition of Home"
+title: "Exploded Axonometric & material and structure"
 categories: Studio Process
 author:
 - Martha Zheng
