@@ -9,7 +9,9 @@ author:
 
 [Part to Whole - Global to Local](http://keanmgc.github.io/2021fall3yr-studio/)
 
-Youtube link: https://youtu.be/lBLBrS5HaoI
+Youtube link: 
+
+https://youtu.be/lBLBrS5HaoI
 
 animation on youtube:
 
