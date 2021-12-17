@@ -6,5 +6,10 @@ author:
 - Martha Zheng
 
 ---
-Youtube link:
-https://youtu.be/lBLBrS5HaoI
+
+[Part to Whole - Global to Local](http://keanmgc.github.io/2021fall3yr-studio/)
+
+
+animation on youtube:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lBLBrS5HaoI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
