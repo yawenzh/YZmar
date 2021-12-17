@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "New Animation"
+title: "Process Animation"
 categories: Studio Process
 author:
 - Martha Zheng
